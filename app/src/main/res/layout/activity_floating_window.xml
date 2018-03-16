@@ -12,14 +12,14 @@
         android:id="@+id/start_float_window"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Start Float Window" >
+        android:text="StartFloatWindow" >
     </Button>
 
     <Button
         android:id="@+id/btn_show"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="显示桌面悬浮窗"
+        android:text="test"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="99dp" />
 
@@ -27,7 +27,7 @@
         android:id="@+id/btn_hide"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="隐藏桌面悬浮窗"
+        android:text="HelloBtn"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="26dp" />
 </android.support.v7.widget.LinearLayoutCompat>
